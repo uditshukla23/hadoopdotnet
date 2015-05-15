@@ -1,0 +1,1 @@
+Hadoop.Net is a source code, class-per-class, API-per-API and algorithmatic port of the Java Hadoop to the C# and .NET platform utilizing Microsoft .NET Framework.
